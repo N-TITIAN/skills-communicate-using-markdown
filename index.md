@@ -10,3 +10,8 @@
 echo "Hello world!!";
 ?>
 ```
+
+# adding task list
+- [x] All in Africa
+- [ ] Laravel series
+- [ ] Designer_Babe
